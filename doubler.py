@@ -1,4 +1,4 @@
-a = input("Введіть слово")
+a = input("Введіть слово")#boom
 b = ""
 for i in range(len(a)):
     if a[i]!=" ":
